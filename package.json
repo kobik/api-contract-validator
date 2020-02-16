@@ -69,7 +69,7 @@
     "mocha": "6.2.0",
     "nock": "10.0.6",
     "nyc": "14.1.1",
-    "request": "2.88.0",
+    "request": "2.88.2",
     "request-promise-native": "1.0.7",
     "should": "13.2.3",
     "sinon": "7.3.2",
